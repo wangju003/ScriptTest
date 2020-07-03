@@ -1,0 +1,20 @@
+citys = [
+    {"name": "北京", "city_id": "1"},
+    {"name": "杭州", "city_id": "2"},
+    # {"name": "苏州", "city_id": "5"},
+    # {"name": "太原", "city_id": "6"},
+    # {"name": "成都", "city_id": "15"},
+    # {"name": "郑州", "city_id": "18"},
+    # {"name": "上海", "city_id": "9"},
+    # {"name": "武汉", "city_id": "20"},
+    # {"name": "天津", "city_id": "7"},
+    # {"name": "南京", "city_id": "8"},
+    # {"name": "无锡", "city_id": "19"},
+    # {"name": "南宁", "city_id": "16"},
+    # {"name": "南昌", "city_id": "24"},
+    # {"name": "长沙", "city_id": "22"},
+    # {"name": "青岛", "city_id": "21"},
+    # {"name": "常州", "city_id": "25"},
+    # {"name": "东莞", "city_id": "66"},
+]
+
