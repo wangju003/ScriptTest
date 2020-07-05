@@ -12,10 +12,9 @@ def generate_log():
     console.setFormatter(formatter)
     logging.getLogger("").addHandler(console)
     return logging
-
 logging =generate_log()
 
-#装饰器 参数化city_url
+#装饰器 参数化case中url的city_url
 def param_city_url(base_url):
     from settings import citys
     city_ids = [city['city_id'] for city in citys]

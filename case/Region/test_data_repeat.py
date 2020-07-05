@@ -1,10 +1,13 @@
 import  requests
 import unittest
-from assert_util import assert_repeat
-from util import logging
-from util import param_city_url
+from common.assert_util import assert_repeat
+from common.util import logging
+from common.util import param_city_url
 
 class RegionDataTest(unittest.TestCase):
+    '''
+    区域商圈数据是否重复
+    '''
     base_url = 'https://appapi.5i5j.com/appapi/region/{city_id}/v1/list'
 
     @param_city_url(base_url)

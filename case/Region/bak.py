@@ -1,7 +1,7 @@
 import  requests
 import unittest
-from assert_util import assert_repeat
-from util import logging
+from common.assert_util import assert_repeat
+from common.util import logging
 from parameterized import parameterized, param
 
 #生成测试数据字典

@@ -1,0 +1,8 @@
+[2020-07-05 10:43:49,978][DEBUG] Starting new HTTPS connection (1): appapi.5i5j.com:443
+[2020-07-05 10:43:50,084][DEBUG] https://appapi.5i5j.com:443 "POST /appapi/region/1/v1/list HTTP/1.1" 200 None
+[2020-07-05 10:43:50,100][DEBUG] Starting new HTTPS connection (1): appapi.5i5j.com:443
+[2020-07-05 10:43:50,163][DEBUG] https://appapi.5i5j.com:443 "POST /appapi/region/2/v1/list HTTP/1.1" 200 None
+[2020-07-05 10:43:50,178][DEBUG] Starting new HTTPS connection (1): appapi.5i5j.com:443
+[2020-07-05 10:43:50,257][DEBUG] https://appapi.5i5j.com:443 "POST /appapi/region/1/v1/list HTTP/1.1" 200 None
+[2020-07-05 10:43:50,257][DEBUG] Starting new HTTPS connection (1): appapi.5i5j.com:443
+[2020-07-05 10:43:50,335][DEBUG] https://appapi.5i5j.com:443 "POST /appapi/region/2/v1/list HTTP/1.1" 200 None
